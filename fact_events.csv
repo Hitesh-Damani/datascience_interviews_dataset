@@ -1,0 +1,151 @@
+id,time_id,user_id,customer_id,client_id,event_type,event_id
+1,2/28/2020,3668-QPYBK,Sendit,desktop,message sent,3
+2,2/28/2020,7892-POOKP,Connectix,mobile,file received,2
+3,4/3/2020,9763-GRSKD,Zoomit,desktop,video call received,7
+4,4/2/2020,9763-GRSKD,Connectix,desktop,video call received,7
+5,2/6/2020,9237-HQITU,Sendit,desktop,video call received,7
+6,2/27/2020,8191-XWSZG,Connectix,desktop,file received,2
+7,4/3/2020,9237-HQITU,Connectix,desktop,video call received,7
+8,3/1/2020,9237-HQITU,Connectix,mobile,message received,4
+9,4/2/2020,4190-MFLUW,Connectix,mobile,video call received,7
+10,4/21/2020,9763-GRSKD,Sendit,desktop,file received,2
+11,2/28/2020,5129-JLPIS,Electric Gravity,mobile,video call started,6
+12,3/31/2020,6713-OKOMC,Connectix,desktop,file received,2
+13,3/21/2020,6388-TABGU,Connectix,desktop,message sent,3
+14,3/3/2020,7469-LKBCI,Connectix,mobile,video call received,7
+15,2/11/2020,9237-HQITU,Connectix,desktop,video call received,7
+16,3/1/2020,5575-GNVDE,Zoomit,desktop,file received,2
+17,3/2/2020,6388-TABGU,Connectix,desktop,message sent,3
+18,4/6/2020,9305-CDSKC,Connectix,desktop,message received,4
+19,2/13/2020,3668-QPYBK,Connectix,mobile,file sent,1
+20,4/3/2020,9959-WOFKT,Connectix,desktop,file received,2
+21,3/15/2020,9305-CDSKC,Zoomit,mobile,message received,4
+22,4/1/2020,7892-POOKP,eShop,mobile,voice call started,8
+23,4/9/2020,8191-XWSZG,Connectix,mobile,file received,2
+24,4/8/2020,3668-QPYBK,eShop,desktop,message sent,3
+25,3/5/2020,8191-XWSZG,Zoomit,mobile,file received,2
+26,2/24/2020,3668-QPYBK,Connectix,mobile,api message received,5
+27,3/26/2020,6388-TABGU,Zoomit,desktop,message received,4
+28,2/3/2020,7795-CFOCW,Connectix,mobile,api message received,5
+29,3/19/2020,7892-POOKP,Connectix,desktop,message received,4
+30,4/7/2020,9763-GRSKD,Connectix,mobile,message sent,3
+31,4/6/2020,9959-WOFKT,Connectix,desktop,message received,4
+32,2/15/2020,9237-HQITU,Connectix,mobile,message sent,3
+33,4/6/2020,4183-MYFRB,Sendit,desktop,file received,2
+34,3/13/2020,9305-CDSKC,Connectix,desktop,video call received,7
+35,4/5/2020,9959-WOFKT,Connectix,mobile,message received,4
+36,3/28/2020,6388-TABGU,Connectix,desktop,message sent,3
+37,4/3/2020,4183-MYFRB,Connectix,desktop,message received,4
+38,3/15/2020,5575-GNVDE,Electric Gravity,desktop,video call started,6
+39,3/6/2020,8091-TTVAX,Zoomit,desktop,file received,2
+40,3/25/2020,4190-MFLUW,Connectix,mobile,file received,2
+41,4/13/2020,9959-WOFKT,Zoomit,mobile,video call received,7
+42,2/20/2020,7590-VHVEG,Sendit,desktop,file received,2
+43,3/13/2020,9305-CDSKC,Connectix,mobile,voice call received,9
+44,2/22/2020,1452-KIOVK,Zoomit,mobile,voice call started,8
+45,4/18/2020,9959-WOFKT,Connectix,desktop,file received,2
+46,2/4/2020,9305-CDSKC,Connectix,desktop,message sent,3
+47,4/6/2020,4190-MFLUW,Connectix,mobile,file sent,1
+48,3/22/2020,1452-KIOVK,Connectix,mobile,file sent,1
+49,4/6/2020,5129-JLPIS,Sendit,desktop,message sent,3
+50,4/4/2020,7469-LKBCI,Sendit,mobile,message received,4
+51,2/14/2020,3668-QPYBK,Connectix,desktop,message received,4
+52,3/28/2020,5575-GNVDE,Sendit,desktop,file received,2
+53,4/5/2020,8091-TTVAX,Connectix,desktop,message sent,3
+54,3/1/2020,7469-LKBCI,Connectix,desktop,video call started,6
+55,2/20/2020,5129-JLPIS,Connectix,desktop,voice call received,9
+56,3/13/2020,7590-VHVEG,Zoomit,mobile,message received,4
+57,4/9/2020,8091-TTVAX,Sendit,desktop,video call received,7
+58,2/27/2020,9237-HQITU,eShop,desktop,video call received,7
+59,3/24/2020,8191-XWSZG,Connectix,mobile,video call received,7
+60,3/19/2020,7469-LKBCI,Sendit,desktop,video call received,7
+61,3/29/2020,7892-POOKP,Connectix,desktop,message received,4
+62,3/14/2020,5129-JLPIS,Connectix,mobile,message sent,3
+63,3/7/2020,4190-MFLUW,Electric Gravity,desktop,message sent,3
+64,3/5/2020,4190-MFLUW,Connectix,desktop,file sent,1
+65,2/6/2020,3668-QPYBK,Sendit,desktop,video call received,7
+66,2/8/2020,6713-OKOMC,Connectix,desktop,voice call started,8
+67,2/24/2020,6713-OKOMC,Connectix,mobile,file sent,1
+68,3/25/2020,7469-LKBCI,Connectix,mobile,message received,4
+69,2/12/2020,1452-KIOVK,Connectix,desktop,message sent,3
+70,2/8/2020,7795-CFOCW,Connectix,desktop,voice call received,9
+71,3/10/2020,7469-LKBCI,Connectix,mobile,video call received,7
+72,3/9/2020,9237-HQITU,Sendit,desktop,video call received,7
+73,3/13/2020,5575-GNVDE,Sendit,mobile,voice call received,9
+74,3/17/2020,7469-LKBCI,Electric Gravity,desktop,message received,4
+75,3/2/2020,4190-MFLUW,Sendit,mobile,message sent,3
+76,4/9/2020,7892-POOKP,Sendit,desktop,file sent,1
+77,3/18/2020,7590-VHVEG,Sendit,mobile,message received,4
+78,2/27/2020,3655-SNQYZ,Sendit,desktop,file received,2
+79,2/3/2020,7469-LKBCI,Zoomit,desktop,file received,2
+80,2/3/2020,0280-XJGEX,eShop,desktop,message sent,3
+81,2/25/2020,6713-OKOMC,Connectix,desktop,message received,4
+82,2/19/2020,6713-OKOMC,Connectix,mobile,file sent,1
+83,3/26/2020,7590-VHVEG,Electric Gravity,desktop,video call received,7
+84,3/19/2020,8091-TTVAX,eShop,desktop,message received,4
+85,2/17/2020,9237-HQITU,Connectix,desktop,file sent,1
+86,3/14/2020,3668-QPYBK,Sendit,mobile,file sent,1
+87,2/17/2020,8191-XWSZG,Connectix,mobile,video call started,6
+88,2/13/2020,3668-QPYBK,Sendit,desktop,voice call started,8
+89,4/1/2020,9959-WOFKT,Connectix,mobile,video call started,6
+90,3/26/2020,7795-CFOCW,Sendit,desktop,file received,2
+91,4/8/2020,7795-CFOCW,Zoomit,mobile,message received,4
+92,3/28/2020,9305-CDSKC,Connectix,desktop,file sent,1
+93,3/6/2020,6713-OKOMC,Connectix,desktop,file received,2
+94,2/23/2020,9305-CDSKC,Sendit,desktop,message sent,3
+95,3/19/2020,5575-GNVDE,Sendit,desktop,voice call received,9
+96,3/28/2020,3668-QPYBK,eShop,desktop,message received,4
+97,3/22/2020,8091-TTVAX,Connectix,mobile,voice call received,9
+98,2/9/2020,3655-SNQYZ,Connectix,desktop,file received,2
+99,3/18/2020,6388-TABGU,Sendit,desktop,message received,4
+100,3/31/2020,3668-QPYBK,Sendit,mobile,file sent,1
+101,3/2/2020,5129-JLPIS,Sendit,desktop,message sent,3
+102,3/2/2020,9237-HQITU,Connectix,desktop,voice call received,9
+103,3/1/2020,9305-CDSKC,Connectix,desktop,message received,4
+104,4/7/2020,5575-GNVDE,Connectix,mobile,message received,4
+105,2/17/2020,8191-XWSZG,Zoomit,mobile,message received,4
+106,3/2/2020,0280-XJGEX,Electric Gravity,mobile,video call started,6
+107,2/7/2020,7590-VHVEG,eShop,mobile,video call received,7
+108,3/6/2020,7892-POOKP,Connectix,mobile,message sent,3
+109,2/3/2020,9237-HQITU,Sendit,mobile,video call started,6
+110,3/2/2020,1452-KIOVK,eShop,mobile,file received,2
+111,2/4/2020,7892-POOKP,Connectix,desktop,message received,4
+112,3/2/2020,8191-XWSZG,Connectix,desktop,message received,4
+113,3/25/2020,4183-MYFRB,Sendit,desktop,video call received,7
+114,2/23/2020,6713-OKOMC,Connectix,desktop,message sent,3
+115,3/2/2020,9305-CDSKC,Sendit,desktop,voice call started,8
+116,3/11/2020,7590-VHVEG,Sendit,desktop,api message received,5
+117,4/8/2020,8091-TTVAX,Zoomit,mobile,file sent,1
+118,2/1/2020,6713-OKOMC,Electric Gravity,mobile,file received,2
+119,3/24/2020,8091-TTVAX,Electric Gravity,desktop,message sent,3
+120,3/6/2020,8091-TTVAX,Electric Gravity,mobile,file sent,1
+121,3/9/2020,5575-GNVDE,Connectix,mobile,file sent,1
+122,3/22/2020,8091-TTVAX,Connectix,mobile,video call received,7
+123,3/2/2020,7469-LKBCI,Connectix,mobile,video call started,6
+124,3/23/2020,5575-GNVDE,Connectix,mobile,voice call received,9
+125,3/30/2020,9305-CDSKC,eShop,desktop,message sent,3
+126,3/25/2020,4190-MFLUW,Connectix,desktop,video call started,6
+127,3/9/2020,7590-VHVEG,Connectix,mobile,api message received,5
+128,3/14/2020,7795-CFOCW,Sendit,desktop,file received,2
+129,4/4/2020,9959-WOFKT,Connectix,mobile,message received,4
+130,3/31/2020,5129-JLPIS,Connectix,desktop,video call received,7
+131,3/27/2020,4183-MYFRB,Connectix,desktop,voice call received,9
+132,4/3/2020,5129-JLPIS,Connectix,desktop,file received,2
+133,3/1/2020,0280-XJGEX,Connectix,desktop,video call started,6
+134,4/16/2020,9763-GRSKD,Connectix,desktop,message sent,3
+135,3/7/2020,6388-TABGU,Connectix,desktop,api message received,5
+136,3/20/2020,9305-CDSKC,Zoomit,mobile,message sent,3
+137,3/10/2020,8091-TTVAX,Sendit,desktop,video call started,6
+138,3/20/2020,0280-XJGEX,Zoomit,mobile,message sent,3
+139,2/23/2020,5129-JLPIS,Connectix,mobile,file received,2
+140,2/18/2020,7590-VHVEG,Connectix,mobile,file sent,1
+141,2/18/2020,1452-KIOVK,Connectix,mobile,file received,2
+142,2/8/2020,3668-QPYBK,Sendit,desktop,message received,4
+143,4/13/2020,7469-LKBCI,Sendit,desktop,video call received,7
+144,3/22/2020,6388-TABGU,eShop,mobile,file sent,1
+145,3/13/2020,0280-XJGEX,Sendit,desktop,message sent,3
+146,3/7/2020,6388-TABGU,Connectix,desktop,voice call received,9
+147,3/21/2020,8091-TTVAX,Connectix,mobile,message sent,3
+148,4/3/2020,8191-XWSZG,Connectix,desktop,file received,2
+149,2/22/2020,7795-CFOCW,Connectix,desktop,message received,4
+150,2/14/2020,7590-VHVEG,Connectix,desktop,message received,4
