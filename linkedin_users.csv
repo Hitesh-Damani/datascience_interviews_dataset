@@ -1,0 +1,13 @@
+,,,,
+user_id,employer,position,start_date,end_date
+1,Microsoft,developer,4/13/2020,11/1/2021
+1,Google,developer,11/1/2021,
+2,Google,manager,1/1/2021,1/11/2021
+2,Microsoft,manager,1/11/2021,
+3,Microsoft,analyst,3/15/2019,7/24/2020
+3,Amazon,analyst,8/1/2020,11/1/2020
+3,Google,senior analyst,11/1/2020,3/4/2021
+4,Google,junior developer,6/1/2018,11/1/2021
+4,Google,senior developer,11/1/2021,
+5,Microsoft,manager,9/26/2017,
+6,Google,CEO,10/2/2015,
